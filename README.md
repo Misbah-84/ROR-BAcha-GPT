@@ -25,9 +25,6 @@ Coming soon...
 - HTML/CSS
 - [Google Generative AI Python SDK](https://github.com/google/generative-ai-python)
 
-## 📸 Screenshot
-
-![screenshot](screenshot.png) *(Replace with your actual screenshot)*
 
 ## 📦 Setup Instructions
 
